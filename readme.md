@@ -130,6 +130,7 @@ The following metrics are used to compare both algorithms:
 * Convergence speed
 * Policy stability
 
+![alt text](infographics/framework.png)
 ---
 
 ## 🚀 Novelty of This Project
