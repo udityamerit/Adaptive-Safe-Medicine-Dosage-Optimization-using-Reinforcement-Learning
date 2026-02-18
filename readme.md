@@ -197,13 +197,13 @@ By comparing aggressive and cautious learning strategies, the system provides in
 
 The following works inspired this study:
 
-1. Yu, C. et al. (2019). *Reinforcement Learning in Healthcare: A Survey*.
+1. **Reinforcement Learning in Healthcare: A Survey**.
    [https://arxiv.org/pdf/1908.08796.pdf](https://arxiv.org/pdf/1908.08796.pdf)
 
-2. Drug Dosage Control System Using Reinforcement Learning. IJISRT (2024).
+2. **Drug Dosage Control System Using Reinforcement Learning. IJISRT (2024)**.
    [https://www.ijisrt.com/assets/upload/files/IJISRT24APR505.pdf](https://www.ijisrt.com/assets/upload/files/IJISRT24APR505.pdf)
 
-3. Simulation-based Optimization of Chemotherapeutic Drug Dosage: Q-learning Approach.
+3. **Simulation-based Optimization of Chemotherapeutic Drug Dosage: Q-learning Approach.**
    [https://oiccpress.com/ijbbe/article/view/10838](https://oiccpress.com/ijbbe/article/view/10838)
 
 ---
