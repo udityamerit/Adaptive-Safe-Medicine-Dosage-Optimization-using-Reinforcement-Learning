@@ -118,6 +118,8 @@ This ensures the agent learns balanced treatment strategies.
 * More cautious behavior
 * Safer treatment policy
 
+<!-- ![alt text](image.png) -->
+
 ---
 
 ## 📊 Evaluation Metrics
