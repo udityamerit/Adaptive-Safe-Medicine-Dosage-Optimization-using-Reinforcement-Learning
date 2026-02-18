@@ -8,8 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
-![alt text](banner.png)
-
+![alt text](infographics/banner.png)
 ---
 
 ## 📌 Overview
@@ -194,6 +193,8 @@ By comparing aggressive and cautious learning strategies, the system provides in
 * Safe treatment planning
 * Explainable healthcare reinforcement learning
 
+
+<!-- ![alt text](<infographics/RL in Health.png>) -->
 ---
 
 ## 📚 Related Work
