@@ -23,6 +23,15 @@ The system compares two classical reinforcement learning algorithms:
 The goal is to analyze how different RL strategies behave in a safety-critical healthcare scenario involving trade-offs between treatment effectiveness and drug toxicity.
 
 ---
+## 1. The summarization of theoretical foundations, basic solutions, challenging issues and advanced techniques in RL.
+
+![alt text](image-1.png)
+
+
+## 2. The outline of application domains of RL in healthcare
+
+![alt text](image-2.png)
+---
 
 ## 🎯 Problem Statement
 
