@@ -31,6 +31,10 @@ The goal is to analyze how different RL strategies behave in a safety-critical h
 ## 2. The outline of application domains of RL in healthcare
 
 ![alt text](image-2.png)
+
+## 3. Important Common Terms In RL and HealthCare
+![alt text](image-3.png)
+
 ---
 
 ## 🎯 Problem Statement
