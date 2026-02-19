@@ -182,7 +182,7 @@ The environment intentionally models the conflict between:
 
 ---
 
-## 📈 Expected Observations
+## 📈 Expected Observations(May be)
 
 * Q-Learning may converge faster but take higher risks.
 * SARSA may learn safer policies with lower overdose probability.
@@ -233,3 +233,4 @@ The following works inspired this study:
 Uditya Narayan Tiwari
 
 B.Tech CSE (AI & ML) **VIT Bhopal University**
+
