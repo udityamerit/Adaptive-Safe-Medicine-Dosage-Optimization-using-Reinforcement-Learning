@@ -182,7 +182,7 @@ The environment intentionally models the conflict between:
 
 ---
 
-## 📈 Expected Observations(May be)
+## 📈 Expected Observations
 
 * Q-Learning may converge faster but take higher risks.
 * SARSA may learn safer policies with lower overdose probability.
@@ -226,6 +226,7 @@ The following works inspired this study:
 3. **Simulation-based Optimization of Chemotherapeutic Drug Dosage: Q-learning Approach.**
    [https://oiccpress.com/ijbbe/article/view/10838](https://oiccpress.com/ijbbe/article/view/10838)
 
+
 ---
 
 ## 👨‍💻 Author
@@ -233,4 +234,3 @@ The following works inspired this study:
 Uditya Narayan Tiwari
 
 B.Tech CSE (AI & ML) **VIT Bhopal University**
-
