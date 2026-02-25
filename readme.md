@@ -225,8 +225,6 @@ The following works inspired this study:
 
 3. **Simulation-based Optimization of Chemotherapeutic Drug Dosage: Q-learning Approach.**
    [https://oiccpress.com/ijbbe/article/view/10838](https://oiccpress.com/ijbbe/article/view/10838)
-
-
 ---
 
 ## 👨‍💻 Author
