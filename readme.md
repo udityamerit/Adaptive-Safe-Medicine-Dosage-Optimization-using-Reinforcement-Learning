@@ -228,7 +228,6 @@ The following works inspired this study:
 ---
 
 ## 👨‍💻 Author
-
 Uditya Narayan Tiwari
 
 B.Tech CSE (AI & ML) **VIT Bhopal University**
